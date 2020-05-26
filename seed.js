@@ -23,5 +23,5 @@ client
       )
     )
   )
-  .then(console.log("Repos seeded successfully in FaunaDB"))
-  .catch((err) => console.log("Failed to add repo to FaunaDB", err));
+  .then(console.log("Repos seeded successfully to FaunaDB"))
+  .catch((err) => console.log("Failed to seed repos to FaunaDB", err));
