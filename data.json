@@ -1,0 +1,37 @@
+[
+  {
+    "projectName": "Vue.js",
+    "repoUrl": "https://github.com/vuejs/vue",
+    "simpleIconsName": "Vue.js"
+  },
+  {
+    "projectName": "gulp",
+    "repoUrl": "https://github.com/gulpjs/gulp",
+    "simpleIconsName": "gulp"
+  },
+  {
+    "projectName": "Nuxt.js",
+    "repoUrl": "https://github.com/nuxt/nuxt.js",
+    "simpleIconsName": "Nuxt.js"
+  },
+  {
+    "projectName": "Strapi",
+    "repoUrl": "https://github.com/strapi/strapi",
+    "simpleIconsName": "Strapi"
+  },
+  {
+    "projectName": "npm",
+    "repoUrl": "https://github.com/npm/cli",
+    "simpleIconsName": "NPM"
+  },
+  {
+    "projectName": "Bulma",
+    "repoUrl": "https://github.com/jgthms/bulma",
+    "simpleIconsName": "Bulma"
+  },
+  {
+    "projectName": "Sass",
+    "repoUrl": "https://github.com/sass/sass",
+    "simpleIconsName": "Sass"
+  }
+]
